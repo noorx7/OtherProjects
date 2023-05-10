@@ -16,8 +16,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\LENOVO\Desktop\Coding\Projects\OtherProjects\ExpenseTracker\Expense Tracker\Expense Tracker
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/LENOVO/Desktop/Coding/Projects/OtherProjects/ExpenseTracker/Expense Tracker/Expense Tracker/Views/Category/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+[C:/Users/LENOVO/Desktop/Coding/Projects/OtherProjects/ExpenseTracker/Expense Tracker/Expense Tracker/Views/Category/AddorEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWRkb3JFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/LENOVO/Desktop/Coding/Projects/OtherProjects/ExpenseTracker/Expense Tracker/Expense Tracker/Views/Category/Delete.cshtml]
@@ -26,10 +26,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/LENOVO/Desktop/Coding/Projects/OtherProjects/ExpenseTracker/Expense Tracker/Expense Tracker/Views/Category/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/LENOVO/Desktop/Coding/Projects/OtherProjects/ExpenseTracker/Expense Tracker/Expense Tracker/Views/Category/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/LENOVO/Desktop/Coding/Projects/OtherProjects/ExpenseTracker/Expense Tracker/Expense Tracker/Views/Category/Index.cshtml]
