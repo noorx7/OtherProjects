@@ -1,4 +1,14 @@
+Youtube Video showcasing the project:
+https://www.youtube.com/watch?v=RrrxvxwbuCU
+
+
+
 ## Updated documentation:
+
+
+
+
+
 To run our application:
 
 - we need to install npm in two separate folders; Client and Server. To do this, we can run the command 'npm install' in each folder. Once npm is installed, we need to ensure that both the Client and Server are running. We can start the Server by running the command 'nodemon index.mjs', and we can start the Client by running the command 'npm run dev'. 
